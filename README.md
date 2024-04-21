@@ -11,8 +11,7 @@ I'm a dedicated software developer with a keen interest in Front end and new tec
 
 ## GitHub Stats
 
-![Mohammad Mehd's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadmehdijamalpour&show_icons=true)
-![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammadmehdijamalpour)
+![Your contributions in the current year](https://github.com/users/mohammadmehdijamalpour/contributions?to=2022-12-31)
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammadmehdijamalpour)
 
 ### Languages and Tools
