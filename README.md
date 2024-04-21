@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Mohammad Mehdi! 👋
 
-<!--
-**MohammadmehdiJamalpour/mohammadmehdijamalpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer with a focus on Front-end. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🌱 I’m currently learning and exploring new technologies like Javascript , React.js , Next.js , Typescript  and  tailwind ... 
+📫 How to reach me: Mohammadmehdi.jamalpour28@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a dedicated software developer with a keen interest in Front end and new technologies . I strive to create scalable and efficient solutions that make a positive impact.
+
+## GitHub Stats
+
+![Mohammad Mehd's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadmehdijamalpour&show_icons=true)
+
+### Languages and Tools
+
+- HTML
+- CSS
+- Javascript
+- Git
+- Responsive Web Design 
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/mohammad-mehdi-jamalpour-78a069272/
