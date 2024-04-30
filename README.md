@@ -13,10 +13,7 @@ I'm a dedicated software developer with a keen interest in Front end and new tec
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammadmehdijamalpour)
-![HTML](https://img.shields.io/badge/HTML-80%25-blue)
-![CSS](https://img.shields.io/badge/CSS-70%25-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
-
+https://forthebadge.com/images/badges/uses-js.png
 
 ### Languages and Tools
 
