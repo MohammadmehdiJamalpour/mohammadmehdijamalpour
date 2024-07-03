@@ -19,6 +19,7 @@ I'm a dedicated software developer with a keen interest in Front end and new tec
 - HTML
 - CSS
 - Javascript
+- React.js
 - Tailwind
 - Git
 - Responsive Web Design 
