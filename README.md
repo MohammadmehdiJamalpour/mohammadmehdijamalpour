@@ -2,8 +2,6 @@
 
 I'm a passionate Software Engineer with a focus on Front-end. Welcome to my GitHub profile!
 
-🌱 I’m currently learning and exploring new technologies like Javascript, React.js, Next.js, Typescript, and Tailwind.
-
 📫 How to reach me: [Mohammadmehdi.jamalpour28@gmail.com](mailto:Mohammadmehdi.jamalpour28@gmail.com)
 
 ## About Me
