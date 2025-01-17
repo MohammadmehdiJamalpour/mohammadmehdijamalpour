@@ -16,8 +16,7 @@ I'm a dedicated software developer with a keen interest in front-end technologie
 <!-- GitHub Streak Stats -->
 ![Mohammad Mehdi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadmehdijamalpour&theme=radical&hide_border=false)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmehdijamalpour&layout=compact&theme=radical&count_private=true)
+
 
 ### Languages and Tools
 
